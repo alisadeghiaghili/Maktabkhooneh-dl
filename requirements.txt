@@ -1,5 +1,0 @@
-rich
-configargparse
-pathlib
-urllib
-selenium

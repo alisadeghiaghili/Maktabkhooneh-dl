@@ -1,1 +1,1 @@
-playwright
+# deprecated - see requirements.txt
